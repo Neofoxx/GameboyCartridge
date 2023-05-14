@@ -1,0 +1,10 @@
+.cproject
+.project
+.settings
+/notes
+/build/*
+!/build/main.hex
+/pythonScripts/games
+/pythonScripts/dumps
+/pythonScripts/*.bin
+
